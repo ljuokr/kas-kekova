@@ -4,6 +4,16 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Kaş–Kekova Paddelkarte</title>
+<meta name="description" content="Offline-Paddelkarte Kaş–Kekova: Route, Schutzzone und Übernachtungsspots.">
+<meta property="og:title" content="Kaş–Kekova Paddelkarte">
+<meta property="og:description" content="Offline-Paddelkarte: Route, Schutzzone und Übernachtungsspots.">
+<meta property="og:image" content="https://ljuokr.github.io/kas-kekova/icon-512.png">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#1465a0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Kaş–Kekova">
 <style>
 :root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
  --bg:#faf8f3;--card:#ffffff;--ink:#222222;--muted:#666666;--rule:#ddd8cc;--accent:#1465a0;}
@@ -84,6 +94,7 @@ cats.forEach(c=>{
   chips.appendChild(b);
 });
 render();
+if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
 </script>
 </body>
 </html>
