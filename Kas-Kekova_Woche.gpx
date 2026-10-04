@@ -4,11 +4,11 @@
   <wpt lat="36.1723" lon="29.6499"><name>Limanagzi Camp/Restaurants</name></wpt>
   <wpt lat="36.148" lon="29.745"><name>Akdeniz Port Camping (unverifiziert)</name></wpt>
   <wpt lat="36.1595" lon="29.7876"><name>Aperlai N1 FreeCamp + Mor Ev</name></wpt>
-  <wpt lat="36.194" lon="29.838"><name>Ucagiz N2 Pension Wasser</name></wpt>
+  <wpt lat="36.1974" lon="29.8476"><name>Ucagiz N2 Pension Wasser</name></wpt>
   <wpt lat="36.191" lon="29.862"><name>Kalekoy N3 Pension</name></wpt>
   <wpt lat="36.186" lon="29.855"><name>SCHUTZZONE versunkene Stadt</name></wpt>
   <wpt lat="36.2044" lon="29.8969"><name>Gokkaya N4 Wildcamp</name></wpt>
-  <wpt lat="36.247" lon="29.983"><name>Andriake Ziel Abholung</name></wpt>
+  <wpt lat="36.2242" lon="29.9458"><name>Andriake Ziel Abholung</name></wpt>
   <trk><name>Kas-Kekova Paddelwoche</name>
     <trkseg>
       <trkpt lat="36.196" lon="29.636"/>
@@ -31,10 +31,7 @@
       <trkpt lat="36.199" lon="29.897"/>
       <trkpt lat="36.204" lon="29.897"/>
       <trkpt lat="36.204" lon="29.912"/>
-      <trkpt lat="36.207" lon="29.94"/>
-      <trkpt lat="36.212" lon="29.975"/>
-      <trkpt lat="36.228" lon="30.02"/>
-      <trkpt lat="36.25" lon="30.045"/>
+      <trkpt lat="36.2235" lon="29.9425"/>
     </trkseg>
   </trk>
 </gpx>
