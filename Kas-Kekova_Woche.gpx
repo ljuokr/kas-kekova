@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Paddelwoche Kas-Kekova" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="36.199" lon="29.636"><name>Kas Start Mo</name></wpt>
+  <wpt lat="36.1723" lon="29.6499"><name>Limanagzi Camp/Restaurants</name></wpt>
+  <wpt lat="36.148" lon="29.745"><name>Akdeniz Port Camping (unverifiziert)</name></wpt>
+  <wpt lat="36.1595" lon="29.7876"><name>Aperlai N1 FreeCamp + Mor Ev</name></wpt>
+  <wpt lat="36.194" lon="29.838"><name>Ucagiz N2 Pension Wasser</name></wpt>
+  <wpt lat="36.191" lon="29.862"><name>Kalekoy N3 Pension</name></wpt>
+  <wpt lat="36.186" lon="29.855"><name>SCHUTZZONE versunkene Stadt</name></wpt>
+  <wpt lat="36.2044" lon="29.8969"><name>Gokkaya N4 Wildcamp</name></wpt>
+  <wpt lat="36.247" lon="29.983"><name>Andriake Ziel Abholung</name></wpt>
+  <trk><name>Kas-Kekova Paddelwoche</name>
+    <trkseg>
+      <trkpt lat="36.196" lon="29.636"/>
+      <trkpt lat="36.178" lon="29.648"/>
+      <trkpt lat="36.173" lon="29.652"/>
+      <trkpt lat="36.158" lon="29.672"/>
+      <trkpt lat="36.142" lon="29.7"/>
+      <trkpt lat="36.132" lon="29.735"/>
+      <trkpt lat="36.14" lon="29.748"/>
+      <trkpt lat="36.151" lon="29.753"/>
+      <trkpt lat="36.132" lon="29.75"/>
+      <trkpt lat="36.115" lon="29.775"/>
+      <trkpt lat="36.135" lon="29.8"/>
+      <trkpt lat="36.172" lon="29.826"/>
+      <trkpt lat="36.184" lon="29.834"/>
+      <trkpt lat="36.191" lon="29.838"/>
+      <trkpt lat="36.186" lon="29.85"/>
+      <trkpt lat="36.19" lon="29.864"/>
+      <trkpt lat="36.192" lon="29.878"/>
+      <trkpt lat="36.199" lon="29.897"/>
+      <trkpt lat="36.204" lon="29.897"/>
+      <trkpt lat="36.204" lon="29.912"/>
+      <trkpt lat="36.207" lon="29.94"/>
+      <trkpt lat="36.212" lon="29.975"/>
+      <trkpt lat="36.228" lon="30.02"/>
+      <trkpt lat="36.25" lon="30.045"/>
+    </trkseg>
+  </trk>
+</gpx>
