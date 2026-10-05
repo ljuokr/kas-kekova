@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Kaş–Kekova route generator">
+  <metadata>
+    <name>Rundtour ohne Gökkaya</name>
+    <desc>Routenvorschlag. Anlanden, Übernachtungen und Durchfahrt mit dem Vermieter und den örtlichen Stellen bestätigen. Entfernungen entlang der Planlinie ohne Zusatzwege. </desc>
+  </metadata>
+  <wpt lat="36.19900" lon="29.63600">
+    <name>Kaş · Start und Ziel</name>
+  </wpt>
+  <wpt lat="36.17230" lon="29.64990">
+    <name>Limanağzı · Zwischenstopp</name>
+  </wpt>
+  <wpt lat="36.15950" lon="29.78760">
+    <name>Aperlai · Etappenziel Tag 1 und 3</name>
+    <desc>Übernachtung und Anlandestelle vorab bestätigen.</desc>
+  </wpt>
+  <wpt lat="36.19740" lon="29.84760">
+    <name>Üçağız · Zwischenstopp</name>
+  </wpt>
+  <wpt lat="36.19100" lon="29.86200">
+    <name>Kaleköy · Etappenziel Tag 2</name>
+    <desc>Übernachtung und Anlandestelle vorab bestätigen.</desc>
+  </wpt>
+  <trk>
+    <name>Tag 1 · Kaş → Aperlai</name>
+    <desc>22.51 km entlang der Planlinie. 2026-10-05</desc>
+    <trkseg>
+      <trkpt lat="36.19844" lon="29.63598" />
+      <trkpt lat="36.17324" lon="29.64985" />
+      <trkpt lat="36.18368" lon="29.64253" />
+      <trkpt lat="36.18380" lon="29.64207" />
+      <trkpt lat="36.18380" lon="29.64070" />
+      <trkpt lat="36.18296" lon="29.63963" />
+      <trkpt lat="36.17228" lon="29.63018" />
+      <trkpt lat="36.17192" lon="29.63003" />
+      <trkpt lat="36.17072" lon="29.63003" />
+      <trkpt lat="36.16964" lon="29.63049" />
+      <trkpt lat="36.16892" lon="29.63095" />
+      <trkpt lat="36.14816" lon="29.65320" />
+      <trkpt lat="36.13076" lon="29.68323" />
+      <trkpt lat="36.13052" lon="29.68415" />
+      <trkpt lat="36.15800" lon="29.78415" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Tag 2 · Aperlai → Üçağız → Kaleköy</name>
+    <desc>16.83 km entlang der Planlinie. 2026-10-06</desc>
+    <trkseg>
+      <trkpt lat="36.15800" lon="29.78415" />
+      <trkpt lat="36.15392" lon="29.76951" />
+      <trkpt lat="36.14696" lon="29.76067" />
+      <trkpt lat="36.14252" lon="29.75610" />
+      <trkpt lat="36.14228" lon="29.75595" />
+      <trkpt lat="36.14192" lon="29.75625" />
+      <trkpt lat="36.14072" lon="29.75945" />
+      <trkpt lat="36.13772" lon="29.77210" />
+      <trkpt lat="36.13676" lon="29.77698" />
+      <trkpt lat="36.13676" lon="29.77729" />
+      <trkpt lat="36.14324" lon="29.79345" />
+      <trkpt lat="36.15116" lon="29.80762" />
+      <trkpt lat="36.15320" lon="29.81098" />
+      <trkpt lat="36.16184" lon="29.82378" />
+      <trkpt lat="36.16880" lon="29.83095" />
+      <trkpt lat="36.17048" lon="29.83095" />
+      <trkpt lat="36.18572" lon="29.84558" />
+      <trkpt lat="36.18908" lon="29.84985" />
+      <trkpt lat="36.18944" lon="29.85000" />
+      <trkpt lat="36.19220" lon="29.85061" />
+      <trkpt lat="36.19292" lon="29.85030" />
+      <trkpt lat="36.19652" lon="29.84756" />
+      <trkpt lat="36.19304" lon="29.85061" />
+      <trkpt lat="36.19172" lon="29.85198" />
+      <trkpt lat="36.19112" lon="29.85457" />
+      <trkpt lat="36.19112" lon="29.85518" />
+      <trkpt lat="36.19064" lon="29.85579" />
+      <trkpt lat="36.18944" lon="29.85579" />
+      <trkpt lat="36.18920" lon="29.85595" />
+      <trkpt lat="36.18860" lon="29.85716" />
+      <trkpt lat="36.18812" lon="29.85915" />
+      <trkpt lat="36.18848" lon="29.86037" />
+      <trkpt lat="36.18968" lon="29.86143" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Tag 3 · Kaleköy → Aperlai</name>
+    <desc>16.83 km entlang der Planlinie. 2026-10-07</desc>
+    <trkseg>
+      <trkpt lat="36.18968" lon="29.86143" />
+      <trkpt lat="36.18848" lon="29.86037" />
+      <trkpt lat="36.18812" lon="29.85915" />
+      <trkpt lat="36.18860" lon="29.85716" />
+      <trkpt lat="36.18920" lon="29.85595" />
+      <trkpt lat="36.18944" lon="29.85579" />
+      <trkpt lat="36.19064" lon="29.85579" />
+      <trkpt lat="36.19112" lon="29.85518" />
+      <trkpt lat="36.19112" lon="29.85457" />
+      <trkpt lat="36.19172" lon="29.85198" />
+      <trkpt lat="36.19304" lon="29.85061" />
+      <trkpt lat="36.19652" lon="29.84756" />
+      <trkpt lat="36.19292" lon="29.85030" />
+      <trkpt lat="36.19220" lon="29.85061" />
+      <trkpt lat="36.18944" lon="29.85000" />
+      <trkpt lat="36.18908" lon="29.84985" />
+      <trkpt lat="36.18572" lon="29.84558" />
+      <trkpt lat="36.17048" lon="29.83095" />
+      <trkpt lat="36.16880" lon="29.83095" />
+      <trkpt lat="36.16184" lon="29.82378" />
+      <trkpt lat="36.15320" lon="29.81098" />
+      <trkpt lat="36.15116" lon="29.80762" />
+      <trkpt lat="36.14324" lon="29.79345" />
+      <trkpt lat="36.13676" lon="29.77729" />
+      <trkpt lat="36.13676" lon="29.77698" />
+      <trkpt lat="36.13772" lon="29.77210" />
+      <trkpt lat="36.14072" lon="29.75945" />
+      <trkpt lat="36.14192" lon="29.75625" />
+      <trkpt lat="36.14228" lon="29.75595" />
+      <trkpt lat="36.14252" lon="29.75610" />
+      <trkpt lat="36.14696" lon="29.76067" />
+      <trkpt lat="36.15392" lon="29.76951" />
+      <trkpt lat="36.15800" lon="29.78415" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Tag 4 · Aperlai → Kaş</name>
+    <desc>22.51 km entlang der Planlinie. 2026-10-08</desc>
+    <trkseg>
+      <trkpt lat="36.15800" lon="29.78415" />
+      <trkpt lat="36.13052" lon="29.68415" />
+      <trkpt lat="36.13076" lon="29.68323" />
+      <trkpt lat="36.14816" lon="29.65320" />
+      <trkpt lat="36.16892" lon="29.63095" />
+      <trkpt lat="36.16964" lon="29.63049" />
+      <trkpt lat="36.17072" lon="29.63003" />
+      <trkpt lat="36.17192" lon="29.63003" />
+      <trkpt lat="36.17228" lon="29.63018" />
+      <trkpt lat="36.18296" lon="29.63963" />
+      <trkpt lat="36.18380" lon="29.64070" />
+      <trkpt lat="36.18380" lon="29.64207" />
+      <trkpt lat="36.18368" lon="29.64253" />
+      <trkpt lat="36.17324" lon="29.64985" />
+      <trkpt lat="36.19844" lon="29.63598" />
+    </trkseg>
+  </trk>
+</gpx>

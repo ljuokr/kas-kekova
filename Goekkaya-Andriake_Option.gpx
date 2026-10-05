@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Kaş–Kekova route generator">
+  <metadata>
+    <name>Option · Gökkaya → Andriake / Çayağzı (einfach)</name>
+    <desc>Routenvorschlag. Anlanden, Übernachtungen und Durchfahrt mit dem Vermieter und den örtlichen Stellen bestätigen. Entfernungen entlang der Planlinie ohne Zusatzwege. Separate Einwegverlängerung. Abholung und geänderte Tagesplanung vorher organisieren; nicht Teil der Rundtour.</desc>
+  </metadata>
+  <wpt lat="36.20580" lon="29.89220">
+    <name>Gökkaya · Optionaler Wendepunkt</name>
+  </wpt>
+  <wpt lat="36.22420" lon="29.94580">
+    <name>Andriake / Çayağzı · Option mit organisierter Abholung</name>
+  </wpt>
+  <trk>
+    <name>Option · Gökkaya → Andriake / Çayağzı (einfach)</name>
+    <desc>5.01 km entlang der Planlinie.</desc>
+    <trkseg>
+      <trkpt lat="36.20624" lon="29.89345" />
+      <trkpt lat="36.20816" lon="29.89634" />
+      <trkpt lat="36.20828" lon="29.89665" />
+      <trkpt lat="36.20696" lon="29.90168" />
+      <trkpt lat="36.20936" lon="29.91402" />
+      <trkpt lat="36.22400" lon="29.94040" />
+      <trkpt lat="36.22364" lon="29.94207" />
+    </trkseg>
+  </trk>
+</gpx>

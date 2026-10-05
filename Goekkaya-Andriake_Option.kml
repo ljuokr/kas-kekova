@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Option · Gökkaya → Andriake / Çayağzı (einfach)</name>
+    <description>Routenvorschlag. Anlanden, Übernachtungen und Durchfahrt mit dem Vermieter und den örtlichen Stellen bestätigen. Entfernungen entlang der Planlinie ohne Zusatzwege. Separate Einwegverlängerung. Abholung und geänderte Tagesplanung vorher organisieren; nicht Teil der Rundtour.</description>
+    <Style id="andriake">
+      <LineStyle>
+        <color>ff787065</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Gökkaya · Optionaler Wendepunkt</name>
+      <Point>
+        <coordinates>29.8922,36.2058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andriake / Çayağzı · Option mit organisierter Abholung</name>
+      <Point>
+        <coordinates>29.9458,36.2242,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Option · Gökkaya → Andriake / Çayağzı (einfach) · 5.0 km</name>
+      <description>Separate Einwegverlängerung. Abholung und geänderte Tagesplanung vorher organisieren; nicht Teil der Rundtour.</description>
+      <styleUrl>#andriake</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>29.89345,36.20624,0 29.89634,36.20816,0 29.89665,36.20828,0 29.90168,36.20696,0 29.91402,36.20936,0 29.94040,36.22400,0 29.94207,36.22364,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rundtour ohne Gökkaya</name>
+    <description>Routenvorschlag. Anlanden, Übernachtungen und Durchfahrt mit dem Vermieter und den örtlichen Stellen bestätigen. Entfernungen entlang der Planlinie ohne Zusatzwege. </description>
+    <Style id="day1">
+      <LineStyle>
+        <color>ffa06514</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="day2">
+      <LineStyle>
+        <color>ffb13f7a</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="day3">
+      <LineStyle>
+        <color>ff195abd</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="day4">
+      <LineStyle>
+        <color>ff507b28</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Kaş · Start und Ziel</name>
+      <Point>
+        <coordinates>29.636,36.199,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Limanağzı · Zwischenstopp</name>
+      <Point>
+        <coordinates>29.6499,36.1723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aperlai · Etappenziel Tag 1 und 3</name>
+      <description>Übernachtung und Anlandestelle vorab bestätigen.</description>
+      <Point>
+        <coordinates>29.7876,36.1595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Üçağız · Zwischenstopp</name>
+      <Point>
+        <coordinates>29.8476,36.1974,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaleköy · Etappenziel Tag 2</name>
+      <description>Übernachtung und Anlandestelle vorab bestätigen.</description>
+      <Point>
+        <coordinates>29.862,36.191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tag 1 · Kaş → Aperlai · 22.5 km</name>
+      <description>2026-10-05</description>
+      <styleUrl>#day1</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>29.63598,36.19844,0 29.64985,36.17324,0 29.64253,36.18368,0 29.64207,36.18380,0 29.64070,36.18380,0 29.63963,36.18296,0 29.63018,36.17228,0 29.63003,36.17192,0 29.63003,36.17072,0 29.63049,36.16964,0 29.63095,36.16892,0 29.65320,36.14816,0 29.68323,36.13076,0 29.68415,36.13052,0 29.78415,36.15800,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tag 2 · Aperlai → Üçağız → Kaleköy · 16.8 km</name>
+      <description>2026-10-06</description>
+      <styleUrl>#day2</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>29.78415,36.15800,0 29.76951,36.15392,0 29.76067,36.14696,0 29.75610,36.14252,0 29.75595,36.14228,0 29.75625,36.14192,0 29.75945,36.14072,0 29.77210,36.13772,0 29.77698,36.13676,0 29.77729,36.13676,0 29.79345,36.14324,0 29.80762,36.15116,0 29.81098,36.15320,0 29.82378,36.16184,0 29.83095,36.16880,0 29.83095,36.17048,0 29.84558,36.18572,0 29.84985,36.18908,0 29.85000,36.18944,0 29.85061,36.19220,0 29.85030,36.19292,0 29.84756,36.19652,0 29.85061,36.19304,0 29.85198,36.19172,0 29.85457,36.19112,0 29.85518,36.19112,0 29.85579,36.19064,0 29.85579,36.18944,0 29.85595,36.18920,0 29.85716,36.18860,0 29.85915,36.18812,0 29.86037,36.18848,0 29.86143,36.18968,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tag 3 · Kaleköy → Aperlai · 16.8 km</name>
+      <description>2026-10-07</description>
+      <styleUrl>#day3</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>29.86143,36.18968,0 29.86037,36.18848,0 29.85915,36.18812,0 29.85716,36.18860,0 29.85595,36.18920,0 29.85579,36.18944,0 29.85579,36.19064,0 29.85518,36.19112,0 29.85457,36.19112,0 29.85198,36.19172,0 29.85061,36.19304,0 29.84756,36.19652,0 29.85030,36.19292,0 29.85061,36.19220,0 29.85000,36.18944,0 29.84985,36.18908,0 29.84558,36.18572,0 29.83095,36.17048,0 29.83095,36.16880,0 29.82378,36.16184,0 29.81098,36.15320,0 29.80762,36.15116,0 29.79345,36.14324,0 29.77729,36.13676,0 29.77698,36.13676,0 29.77210,36.13772,0 29.75945,36.14072,0 29.75625,36.14192,0 29.75595,36.14228,0 29.75610,36.14252,0 29.76067,36.14696,0 29.76951,36.15392,0 29.78415,36.15800,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tag 4 · Aperlai → Kaş · 22.5 km</name>
+      <description>2026-10-08</description>
+      <styleUrl>#day4</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>29.78415,36.15800,0 29.68415,36.13052,0 29.68323,36.13076,0 29.65320,36.14816,0 29.63095,36.16892,0 29.63049,36.16964,0 29.63003,36.17072,0 29.63003,36.17192,0 29.63018,36.17228,0 29.63963,36.18296,0 29.64070,36.18380,0 29.64207,36.18380,0 29.64253,36.18368,0 29.64985,36.17324,0 29.63598,36.19844,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
