@@ -2,36 +2,80 @@
 <gpx version="1.1" creator="Paddelwoche Kas-Kekova" xmlns="http://www.topografix.com/GPX/1/1">
   <wpt lat="36.199" lon="29.636"><name>Kas Start Mo</name></wpt>
   <wpt lat="36.1723" lon="29.6499"><name>Limanagzi Camp/Restaurants</name></wpt>
-  <wpt lat="36.148" lon="29.745"><name>Akdeniz Port Camping (unverifiziert)</name></wpt>
   <wpt lat="36.1595" lon="29.7876"><name>Aperlai N1 FreeCamp + Mor Ev</name></wpt>
   <wpt lat="36.1974" lon="29.8476"><name>Ucagiz N2 Pension Wasser</name></wpt>
   <wpt lat="36.191" lon="29.862"><name>Kalekoy N3 Pension</name></wpt>
-  <wpt lat="36.186" lon="29.855"><name>SCHUTZZONE versunkene Stadt</name></wpt>
-  <wpt lat="36.2044" lon="29.8969"><name>Gokkaya N4 Wildcamp</name></wpt>
+  <wpt lat="36.179" lon="29.8606"><name>SCHUTZZONE versunkene Stadt</name></wpt>
+  <wpt lat="36.2058" lon="29.8922"><name>Gokkaya N4 Wildcamp</name></wpt>
   <wpt lat="36.2242" lon="29.9458"><name>Andriake Ziel Abholung</name></wpt>
   <trk><name>Kas-Kekova Paddelwoche</name>
     <trkseg>
-      <trkpt lat="36.196" lon="29.636"/>
-      <trkpt lat="36.178" lon="29.648"/>
-      <trkpt lat="36.173" lon="29.652"/>
-      <trkpt lat="36.158" lon="29.672"/>
-      <trkpt lat="36.142" lon="29.7"/>
-      <trkpt lat="36.132" lon="29.735"/>
-      <trkpt lat="36.14" lon="29.748"/>
-      <trkpt lat="36.151" lon="29.753"/>
-      <trkpt lat="36.132" lon="29.75"/>
-      <trkpt lat="36.115" lon="29.775"/>
-      <trkpt lat="36.135" lon="29.8"/>
-      <trkpt lat="36.172" lon="29.826"/>
-      <trkpt lat="36.184" lon="29.834"/>
-      <trkpt lat="36.191" lon="29.838"/>
-      <trkpt lat="36.186" lon="29.85"/>
-      <trkpt lat="36.19" lon="29.864"/>
-      <trkpt lat="36.192" lon="29.878"/>
-      <trkpt lat="36.199" lon="29.897"/>
-      <trkpt lat="36.204" lon="29.897"/>
-      <trkpt lat="36.204" lon="29.912"/>
-      <trkpt lat="36.2235" lon="29.9425"/>
+      <trkpt lat="36.19844" lon="29.63598"/>
+      <trkpt lat="36.17324" lon="29.64985"/>
+      <trkpt lat="36.18368" lon="29.64253"/>
+      <trkpt lat="36.1838" lon="29.64207"/>
+      <trkpt lat="36.1838" lon="29.6407"/>
+      <trkpt lat="36.18296" lon="29.63963"/>
+      <trkpt lat="36.17228" lon="29.63018"/>
+      <trkpt lat="36.17192" lon="29.63003"/>
+      <trkpt lat="36.17072" lon="29.63003"/>
+      <trkpt lat="36.16964" lon="29.63049"/>
+      <trkpt lat="36.16892" lon="29.63095"/>
+      <trkpt lat="36.14816" lon="29.6532"/>
+      <trkpt lat="36.13076" lon="29.68323"/>
+      <trkpt lat="36.13052" lon="29.68415"/>
+      <trkpt lat="36.158" lon="29.78415"/>
+      <trkpt lat="36.15392" lon="29.76951"/>
+      <trkpt lat="36.14696" lon="29.76067"/>
+      <trkpt lat="36.14252" lon="29.7561"/>
+      <trkpt lat="36.14228" lon="29.75595"/>
+      <trkpt lat="36.14192" lon="29.75625"/>
+      <trkpt lat="36.14072" lon="29.75945"/>
+      <trkpt lat="36.13772" lon="29.7721"/>
+      <trkpt lat="36.13676" lon="29.77698"/>
+      <trkpt lat="36.13676" lon="29.77729"/>
+      <trkpt lat="36.14324" lon="29.79345"/>
+      <trkpt lat="36.15116" lon="29.80762"/>
+      <trkpt lat="36.1532" lon="29.81098"/>
+      <trkpt lat="36.16184" lon="29.82378"/>
+      <trkpt lat="36.1688" lon="29.83095"/>
+      <trkpt lat="36.17048" lon="29.83095"/>
+      <trkpt lat="36.18572" lon="29.84558"/>
+      <trkpt lat="36.18908" lon="29.84985"/>
+      <trkpt lat="36.18944" lon="29.85"/>
+      <trkpt lat="36.1922" lon="29.85061"/>
+      <trkpt lat="36.19292" lon="29.8503"/>
+      <trkpt lat="36.19652" lon="29.84756"/>
+      <trkpt lat="36.19304" lon="29.85061"/>
+      <trkpt lat="36.19172" lon="29.85198"/>
+      <trkpt lat="36.19112" lon="29.85457"/>
+      <trkpt lat="36.19112" lon="29.85518"/>
+      <trkpt lat="36.19064" lon="29.85579"/>
+      <trkpt lat="36.18944" lon="29.85579"/>
+      <trkpt lat="36.1892" lon="29.85595"/>
+      <trkpt lat="36.1886" lon="29.85716"/>
+      <trkpt lat="36.18812" lon="29.85915"/>
+      <trkpt lat="36.18848" lon="29.86037"/>
+      <trkpt lat="36.18968" lon="29.86143"/>
+      <trkpt lat="36.18956" lon="29.86159"/>
+      <trkpt lat="36.18932" lon="29.86296"/>
+      <trkpt lat="36.19052" lon="29.88216"/>
+      <trkpt lat="36.19388" lon="29.8875"/>
+      <trkpt lat="36.20228" lon="29.89817"/>
+      <trkpt lat="36.20252" lon="29.89832"/>
+      <trkpt lat="36.20396" lon="29.89787"/>
+      <trkpt lat="36.20516" lon="29.89802"/>
+      <trkpt lat="36.2078" lon="29.89741"/>
+      <trkpt lat="36.20816" lon="29.8971"/>
+      <trkpt lat="36.20828" lon="29.89665"/>
+      <trkpt lat="36.20804" lon="29.89619"/>
+      <trkpt lat="36.20624" lon="29.89345"/>
+      <trkpt lat="36.20816" lon="29.89634"/>
+      <trkpt lat="36.20828" lon="29.89665"/>
+      <trkpt lat="36.20696" lon="29.90168"/>
+      <trkpt lat="36.20936" lon="29.91402"/>
+      <trkpt lat="36.224" lon="29.9404"/>
+      <trkpt lat="36.22364" lon="29.94207"/>
     </trkseg>
   </trk>
 </gpx>
