@@ -1,6 +1,6 @@
 // Die ganze Karte samt Routenexporten wird vor der Aktivierung gespeichert.
 const CACHE_PREFIX = "kas-kekova-";
-const CACHE = "kas-kekova-v3";
+const CACHE = "kas-kekova-v4";
 const FILES = [
   "./", "index.html", "route-data.json",
   "Kas-Kekova_Woche.gpx", "Kas-Kekova_Woche.kml",
